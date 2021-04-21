@@ -1,0 +1,9 @@
+name = "vite-test"
+type = 'webpack'
+account_id = '801755e645b3d1da0d3c826fd5095967'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "dist",entry-point = "workers-site"}
